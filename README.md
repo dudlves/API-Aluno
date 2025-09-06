@@ -47,14 +47,14 @@ src/
    ```
 
 3. **Execute a aplicação:**
-   ```bash
+   
     Se estiver usando **Visual Studio Code** com a extensão **Spring Boot Dashboard**:
 
-    1. Abra o **Spring Boot Dashboard** (`Ctrl+Shift+P` → "Spring Boot Dashboard").
-    2. Selecione o projeto e clique em **Run**.
-   ```
+        1. Abra o Spring Boot Dashboard (Ctrl+Shift+P → Spring Boot Dashboard).
+        2. Selecione o projeto e clique em Run.
+   
 
-4. A API estará rodando em:
+5. A API estará rodando em:
    ```
    http://localhost:8080
    ```
